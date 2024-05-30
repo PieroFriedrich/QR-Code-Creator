@@ -1,0 +1,26 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# IDE specific
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.backup
